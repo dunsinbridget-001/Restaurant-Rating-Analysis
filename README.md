@@ -5,7 +5,9 @@
 ## Introduction:
 
 The Restaurant Rating Analysis project explores valuable insights from a dataset collected through a 2012 customer survey across restaurants in Mexico. The dataset captures information on restaurants, cuisines, customer demographics, and consumer preferences.
+
 This analysis aims to uncover patterns that can guide business entrepreneurs and investors in understanding the restaurant market including what drives higher ratings, identifying market gaps, and providing data-backed recommendations for investment opportunities.
+
 By leveraging this data, restaurant owners and investors can make informed decisions on where to focus resources, what customers value most, and how to improve business performance in a competitive food industry.
 
 ## Project Overview:
