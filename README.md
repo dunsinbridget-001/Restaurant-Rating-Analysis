@@ -97,7 +97,6 @@ This represents an opportunity for entrepreneurs and investors to fill these gap
 
 - Target areas with less competition but strong demand to optimize market share.
 
-You can interact with the live visualization [HERE}(
 
 ## Conclusion: 
 
