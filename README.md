@@ -97,7 +97,7 @@ This represents an opportunity for entrepreneurs and investors to fill these gap
 
 - Target areas with less competition but strong demand to optimize market share.
 
-Full report: [Restaurant Rating Report (PDF)](Restaurant-Rating-Report.pdf) · Power BI file: [Restaurant-Rating-Analysis.pbix](Restaurant-Rating-Analysis.pbix)
+Full report: [Restaurant Rating Report (PDF)](CAPSTONE%20PROJECT%203 (RESTAURANT).pdf) · Power BI file: [Restaurant-Rating-Analysis.pbix](CAPSTONE%20PROJECT%203 (RESTAURANT).pbix) 
 
 
 ## Conclusion: 
